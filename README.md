@@ -2,8 +2,6 @@
 ## My name is João Gabriel Foletto Schefer!
 
 - 🔭 Currently working on Gaic at Unijuí.
-- 📫 How to reach me:
-  (Instagram aqui, linkedIn)
 
 ## Ferramentas e Tecnologias
 ### Tenho algum conhecimento:
