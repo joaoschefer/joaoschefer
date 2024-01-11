@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is João Gabriel Foletto Schefer!
 
-- 🔭 Currently working at GAIC at Unijuí on a project involving Python, Django, JavaScript, and React.
+- 🔭 Currently working at GAIC at Unijuí on a project involving Python, Django, JavaScript and React.
 
 ## Tools and technologies
 ### I have some knowledge:
