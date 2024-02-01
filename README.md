@@ -2,7 +2,7 @@
 ## My name is João Gabriel Foletto Schefer!
 
 - 🖥️ I'm studying computer science at Unijuí.
-- 🔭 Currently working at GAIC at Unijuí on a project involving Python, Django, JavaScript and React.
+- 🔭 Currently working at GAIC at Unijuí on a project involving Python, Django, JavaScript, React and PostgreSQL.
 
 ## Tools and technologies
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12/icons/django.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
