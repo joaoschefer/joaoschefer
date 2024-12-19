@@ -11,6 +11,11 @@
 ### Learning:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> 
 
+### Projects
+- [Project Name 1](https://github.com/username/project1): Breve descrição do projeto.
+- [Project Name 2](https://github.com/username/project2): Breve descrição do projeto.
+
+
 ## Contacts:
 <div>
 <a href="https://instagram.com/joao.schefer" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
