@@ -2,7 +2,8 @@
 ## My name is João Gabriel Foletto Schefer!
 
 - 🖥️ I am a computer science student at Unijuí.
-- 🔭 I already worked at GAIC at Unijuí on a project involving Django, React and PostgreSQL.
+- 🔭 Scientific Initiation Scholarship - Unijuí (2021 - 2022)
+  During this period I participated in an initiation scholarship science, where I started the development of a code for a 3D model about grain moisture using the Python programming language.
 - 🔭 I work on GAIC at Unijuí in a frontend project with React.
 
 ## Tools and technologies
