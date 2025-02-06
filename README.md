@@ -4,7 +4,7 @@
 - 🖥️ I am a computer science student at Unijuí.
 - 🔭 Scientific Initiation Scholarship - Unijuí (2021 - 2022):
   During this period I participated in an initiation scholarship science, where I started the development of a code for a 3D model about grain moisture using the Python programming language.
-- 🔭 GAIC - Unijuí (August 2022 - August 2024):  Neste período trabalhei em um projeto em Python, utilizando framework Django para Back-End e desenvolvendo em paralelo o Front-End utilizando React e JavaScript.
+- 🔭 GAIC - Unijuí (August 2022 - August 2024): During this period I worked on a project in Python, using the Django framework for Back-End and developing the Front-End in parallel using React and JavaScript.
 - 🔭 GAIC - Unijuí (August 2024 - to date): I am currently working on a project, using HTML, CSS, JavaScript, React and PostgreSQL.
 
 ## Tools and technologies
