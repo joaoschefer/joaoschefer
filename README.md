@@ -16,6 +16,7 @@
 ### Projects
 - [Portfolio](https://github.com/joaoschefer/portfolio): This is my portfolio.
 - [Loja de Carros](https://github.com/joaoschefer/django-carros): This application was made with the aim of studying the Django Framework.
+- [Livro Caixa](https://github.com/joaoschefer/livro_caixa): This is an application to control your expenses.
 
 
 ## Contacts:
