@@ -1,5 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is João Gabriel Foletto Schefer!
+#### My portfolio: https://joaoschefer.github.io/portfolio/
 
 - 🖥️ I am a computer science student at Unijuí.
 - 🔭 Scientific Initiation Scholarship - Unijuí (2021 - 2022):
