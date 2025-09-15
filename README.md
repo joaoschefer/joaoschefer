@@ -13,11 +13,11 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/npm/simple-icons@5.12/icons/django.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> 
 
 ## Projects
-- [Portfolio](https://github.com/joaoschefer/portfolio): This is my portfolio.
 - [Car Store](https://github.com/joaoschefer/django-carros): This application was made with the aim of studying the Django Framework.
-- [Financial JS](https://github.com/joaoschefer/financeiro-js): This project is about personal financial control and is being developed for personal use and study purposes.
+- [Vesto Project](https://github.com/joaoschefer/vestoProject): This project is about personal financial control and is being developed for personal use and study purposes.
 - [Password Generator](https://github.com/joaoschefer/gerador-senha-mobile): This was my first project with react native, with the aim of studying and learning a new technology.
 - [Cash Book](https://github.com/joaoschefer/livro_caixa): This is an application to control your expenses.
+- [Portfolio](https://github.com/joaoschefer/portfolio): This is my portfolio.
 
 
 ## Contacts:
