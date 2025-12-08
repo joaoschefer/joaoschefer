@@ -1,11 +1,11 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is João Gabriel Foletto Schefer!
 
-- 🖥️ I am a computer science student at Unijuí.
+- 🖥️ I hold a degree in Computer Science from Unijui (2021 - 2025).
 - 🔭 Scientific Initiation Scholarship - Unijuí (2021 - 2022):
   During this period I participated in an initiation scholarship science, where I started the development of a code for a 3D model about grain moisture using the Python programming language.
 - 🔭 GAIC - Unijuí (August 2022 - August 2024): During this period I worked on a project in Python, using the Django framework for Back-End and developing the Front-End in parallel using React and JavaScript.
-- 🔭 GAIC - Unijuí (August 2024 - to date): In this period I worked on a project, using HTML, CSS, JavaScript, React and PostgreSQL.
+- 🔭 GAIC - Unijuí (August 2024 - November 2024): In this period I worked on a project, using HTML, CSS, JavaScript, React and PostgreSQL.
 
 #### Visit and get to know me: https://joaoschefer.github.io/portfolio/
 
