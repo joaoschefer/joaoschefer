@@ -16,7 +16,7 @@
 - [PorkTek - TCC](https://github.com/joaoschefer/porktek-nocode): This application was developed as a final course project.
 - [Providex](https://github.com/joaoschefer/providex-nocode): This was my internship project, where I developed the front-end part of Providex.
 - [Car Store](https://github.com/joaoschefer/django-carros): This application was made with the aim of studying the Django Framework.
-- [Vesto Project](https://github.com/joaoschefer/vestoProject): This project is about personal financial control and is being developed for personal use and study purposes.
+- [Vesto Finanças](https://github.com/joaoschefer/vestoFinancas): This project is about personal financial control and is being developed for personal use and study purposes.
 - [Password Generator](https://github.com/joaoschefer/gerador-senha-mobile): This was my first project with react native, with the aim of studying and learning a new technology.
 - [Cash Book](https://github.com/joaoschefer/livro_caixa): This is an application to control your expenses.
 - [Portfolio](https://github.com/joaoschefer/portfolio): This is my portfolio.
